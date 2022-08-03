@@ -1,0 +1,10 @@
+Poprawki do kodu:
+
+- Każda klasa powinna znajdować się w osobnym pliku.
+- Należy pisać kod jednolicie.
+- 'using' powinno znajdować się na samej górze kodu.
+- Klasa 'Program' powinna być publiczna.
+- Każda właściwość w klasie ImportedObject powinna mieć { get; set; }.
+- Przypisanie wartości do nowego obiektu ImportedObject w DataReader.cs da się uprościć.
+- Instrukcję if da się połączyć, jeżeli są zależne od siebie.
+- W Program.cs nazwa pliku, do którego będą zapisywane dane powinien nazywać się 'data.csv'.
