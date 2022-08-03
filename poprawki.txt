@@ -1,7 +1,8 @@
 Poprawki do kodu:
 
 - Każda klasa powinna znajdować się w osobnym pliku.
-- Należy pisać kod jednolicie.
+- Pliki powinny być w odpowiednich folderach.
+- Należy pisać kod jednolicie, utrzymując określony styl pisania.
 - 'using' powinno znajdować się na samej górze kodu.
 - Klasa 'Program' powinna być publiczna.
 - Każda właściwość w klasie ImportedObject powinna mieć { get; set; }.
